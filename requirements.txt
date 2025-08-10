@@ -1,0 +1,4 @@
+nudenet==0.5.1
+opencv-python
+moviepy
+numpy
